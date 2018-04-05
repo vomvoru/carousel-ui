@@ -1,0 +1,9 @@
+.slide-carousel-container {
+  overflow: hidden;
+}
+.images-container {
+  white-space: nowrap;
+}
+.slide-container {
+  white-space: nowrap;
+}

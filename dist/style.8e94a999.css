@@ -1,0 +1,27 @@
+.box {
+  height: 60px;
+  background: #ded;
+  width: 700px;
+}
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#app>div, .sample-image-list{
+  margin-bottom: 10px;
+  /* margin: 0 auto; */
+}
+
+.controller {
+  position: fixed;
+  width: 76px;
+  margin: 15px auto;
+}
